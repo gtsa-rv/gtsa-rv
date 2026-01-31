@@ -2,10 +2,6 @@
 
 I'm Aleks, an AI engineer based in Ukraine.
 
-I build LLM systems that actually ship.
-
-My primary tech stack consists of JavaScript, Python, TypeScript, Next.js, and the Claude API. My favourite tools are ChromaDB and LangChain.
-
 ## What I've Built
 
 **Production Systems:**
@@ -25,7 +21,7 @@ My primary tech stack consists of JavaScript, Python, TypeScript, Next.js, and t
 - Architected retrieval systems with 512-token chunking + text-embedding-ada-002
 - Validated agent performance with Cohen's kappa of 0.78 against human annotations
 
-## Fun Facts:
+## Some Facts:
 
-- Developed my first website at 13 years old
+- Developed my first website at 13
 - Working on a full–time job since 16
