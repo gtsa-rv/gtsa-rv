@@ -4,7 +4,7 @@ I'm Aleks, an AI engineer based in Ukraine.
 
 I build LLM systems that actually ship.
 
-My main tech stack is JavaScript, Python, TypeScript, Next.js, and Claude API. My favorite tools are ChromaDB, LangChain, and Linux terminal.
+My main tech stack is JavaScript, Python, TypeScript, Next.js, and Claude API. My favorite tools are ChromaDB and LangChain.
 
 ## What I've Built
 
